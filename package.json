@@ -1,0 +1,21 @@
+{
+  "name": "my_web_services",
+  "version": "1.0.1",
+  "description": "My web services using node js tech",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "*",
+    "dependencies": "0.0.1",
+    "express": "*",
+    "mongoose": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "services"
+  ],
+  "author": "Ernesto Bonet",
+  "license": "ISC"
+}
