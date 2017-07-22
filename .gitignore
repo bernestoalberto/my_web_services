@@ -1,1 +1,8 @@
 .DS_Store
+Thumbs.db
+.idea
+*.sublime-workspace
+node_modules
+npm-debug.log
+*.png
+cache
